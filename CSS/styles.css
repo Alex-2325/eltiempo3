@@ -1,0 +1,143 @@
+body{
+    background-color:#3678b5;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+h1{
+    color: white;
+    font-family:'Montserrat', sans-serif;
+}
+
+.caja1{
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   align-content: space-around;
+    border: 1px solid transparent;
+    background-color: transparent;
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    width: 99%;
+    height: 250px;
+    margin: 5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.caja2{
+    border: 1px solid transparent;
+    background-color: transparent;
+    color:white;
+    font-family: 'Montserrat', sans-serif;
+    width: 99%;
+    height: 250px;
+    line-height: 120px;
+    text-align: center;
+    margin: 5px;
+    float: left;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-content: center;
+
+}
+.caja3{
+    border: 1px solid transparent;
+    background-color: transparent;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    width: 99%;
+    height: 250px;
+    line-height: 120px;
+    text-align: center;
+    margin: 5px;
+    float: left;
+}
+.caja4{
+    border: 1px solid transparent;
+    background-color: transparent;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    width: 99%;
+    height: 250px;
+    line-height: 120px;
+    text-align: center;
+    margin: 5px;
+    float: left;
+}
+.caja5{
+    border: 1px solid transparent;
+    background-color: transparent;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    width: 99%;
+    height: 250px;
+    line-height: 120px;
+    text-align: center;
+    margin: 5px;
+    float: left;
+}
+.sep1{
+    border: 1px solid transparent;
+    font-size: 1.5em;
+}
+.sep2{
+    border: 1px solid transparent;
+    width: 90%;
+    height: 30%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    font-size: 1em;
+
+}
+.sep3{
+    border: 1px solid transparent;
+    font-size: 1em;
+}
+.sep4{
+    border: 1px solid transparent;
+    font-size: 1em;
+}
+.sep5{
+    border: 1px solid transparent;
+    font-size: 1em;
+
+}
+.s1{
+    border: 1px solid transparent;
+    margin-right: 5px;
+}
+.s2{
+    border: 1px solid transparent;
+    font-size: 3.7em;
+    margin-right: 5px;
+
+}
+.s3{
+    border: 1px solid transparent;
+   display: flex;
+   flex-wrap: wrap;
+   flex-direction: column;
+   font-size: 1.5em;
+   margin-right: 5px;
+
+}
+.ss1{
+    border: 1px solid transparent;
+}
+.ss2{
+    border: 1px solid transparent;
+}
+.r1{
+    border: 1px solid transparent;
+    width: 9em;
+    height: 10em;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    font-size: 1em;
+    
+}
